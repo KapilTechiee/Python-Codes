@@ -1,0 +1,2 @@
+Hello,this is a test file.
+python file operations are simple.
